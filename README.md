@@ -12,6 +12,8 @@
 
 ![测试例程](https://github.com/Allen953/Baize_ServoDriver_esp8266/blob/main/7.Photos%20%26%20Videos/Baize_ServoDriver_esp8266test1.gif)
 
+![3D图片](https://github.com/Allen953/Baize_ServoDriver_esp8266/blob/main/7.Photos%20%26%20Videos/QQ%E5%9B%BE%E7%89%8720220826145219.png)
+
 ![实物图片](https://github.com/Allen953/Baize_ServoDriver_esp8266/blob/main/7.Photos%20%26%20Videos/IMG_20220804_152804.jpg)
 
 
